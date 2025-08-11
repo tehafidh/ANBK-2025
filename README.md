@@ -1,6 +1,6 @@
-# 📄 Prosedur Pengaktifan Tes ANBK PAKET C/ULYA 2025
+# 📄 Prosedur Pengaktifan Tes ANBK SMP/ MTs
 **Pelaksanaan Utama – Moda Daring & Semi Daring**  
-📅 **Minggu, 10 Agustus 2025**
+📅 **Senin, 18 Agustus 2025**
 
 ---
 
