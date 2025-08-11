@@ -1,4 +1,11 @@
-# 📄 Prosedur Pengaktifan Tes ANBK SMP/ MTs
+## ⬇️ Download Aplikasi ANBK 2025
+- [**📥 Exam Browser Client 32 Bit**](https://github.com/tehafidh/ANBK-2025/releases/download/ANBK2025/32Bit_ExambrowserClient.rar)  
+- [**📥 Exam Browser Client 64 Bit**](https://github.com/tehafidh/ANBK-2025/releases/download/ANBK2025/64Bit_ExambrowserClient.rar)  
+- [**📥 Exam Browser Proktor**](https://github.com/tehafidh/ANBK-2025/releases/download/ANBK2025/64Bit_ProktorBrowser.zip)  
+
+---
+
+# 📄 Prosedur Pengaktifan Tes ANBK SMP/MTs
 **Pelaksanaan Utama – Moda Daring & Semi Daring**  
 📅 **Senin, 18 Agustus 2025**
 
